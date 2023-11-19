@@ -2,11 +2,11 @@
  
 Este repositorio contiene la solución para la prueba técnica realizada, la cual consiste en abordar varios puntos a través de código y documentación. La estructura del repositorio se organiza de la siguiente manera:
 
-|-- code
-| |-- prueba_tecnica.ipynb
-|-- docs
-| |-- documentacion.docx
-|-- resultados
+- code
+  - prueba_tecnica.ipynb
+- docs
+  - documentacion.docx
+- resultados
 
 ## Contenido
 
