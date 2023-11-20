@@ -20,7 +20,7 @@ La carpeta `docs` contiene el archivo `documentacion.docx`, que proporciona info
 
 ### 3. Carpeta `resultados`
 
-Esta carpeta almacena cualquier resultado, salida o archivo generado como parte de la ejecución del código. Dependiendo de los requisitos de la prueba, aquí podrían incluirse gráficos, tablas u otros archivos generados durante la ejecución del código en el cuaderno Jupyter.
+Esta carpeta almacena los resultados, salida o archivo generado como parte de la ejecución del código,en el nombre dem archivo refiere la salida al punto en especifico. 
 
 ## Instrucciones de Uso
 
@@ -30,5 +30,5 @@ Para revisar la solución de la prueba técnica, sigue estos pasos:
 2. Lee la documentación proporcionada en el archivo `documentacion.docx` en la carpeta `docs` para obtener una comprensión más profunda de la solución.
 3. Explora cualquier resultado o archivo adicional generado durante la ejecución del código, si es necesario, en la carpeta `resultados`.
 
-Esperamos que la solución proporcionada cumpla con los requisitos de la prueba técnica y estaremos encantados de recibir comentarios o sugerencias para mejoras. ¡Gracias por revisar nuestro trabajo!
+Espero que la solución proporcionada cumpla con los requisitos de la prueba técnica y estare encantados de recibir comentarios o sugerencias para mejoras. ¡Gracias por revisar mi trabajo!
 
